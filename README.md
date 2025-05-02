@@ -1,8 +1,8 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=TUnrfub%2b&id=452A55928F3210787A1AFB57ABFAF178227BA6F5&thid=OIP.TUnrfub--rPotY6X7fAPVwHaDq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f87%2ff3%2ff1%2f87f3f1425b217691da645e97dbb50d55.gif&exph=465&expw=940&q=coding+banner+gif+image&simid=608025477359927344&FORM=IRPRST&ck=3C3FF2CC018CF736C077D935FB860625&selectedIndex=9&itb=0)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Aditi Sharma</h1>
 <h3 align="center">I'm passionate about web development and actively involved in AI/ML projects</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=gkwhtGB%2b&id=2F499AF81C290C26ECEDDFFCCD4E325790250D99&thid=OIP.gkwhtGB-3CxB5_vjA3tVUgHaGO&mediaurl=https%3a%2f%2fcdnb.artstation.com%2fp%2fassets%2fimages%2fimages%2f028%2f991%2f999%2foriginal%2fanna-havrylyukh-.gif%3f1596125112&exph=793&expw=944&q=animated+coding+gif+girl&simid=607986775430337177&FORM=IRPRST&ck=060CF0A71D72F5E72824168C6B4C6902&selectedIndex=7&itb=0">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-sharma01&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-sharma01" /> </p>
 
